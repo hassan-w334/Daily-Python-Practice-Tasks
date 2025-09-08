@@ -3,18 +3,15 @@
 This repository contains all the programs and mini-projects I built while completing a **14-Day Python Challenge**.  
 It includes daily practice tasks (Day 1–11) and two bigger mini-projects (Day 12 & 13).  
 
----
-
 ## 📂 Repo Structure
+```
 python-14day-challenge/
 │
 ├── all_projects.py
 ├── mini_projects/
 │   ├── student_grade_manager.py
 │   └── expense_tracker.py
-
-
----
+```
 
 ## 📝 Contents
 
