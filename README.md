@@ -8,10 +8,10 @@ It includes daily practice tasks (Day 1–11) and two bigger mini-projects (Day 
 ## 📂 Repo Structure
 python-14day-challenge/
 │
-├── all_projects.py # Daily practice tasks (Day 1–11)
+├── all_projects.py
 ├── mini_projects/
-│ ├── student_grade_manager.py # Mini Project 1 (Day 12)
-│ └── expense_tracker.py # Mini Project 2 (Day 13)
+│   ├── student_grade_manager.py
+│   └── expense_tracker.py
 
 
 ---
